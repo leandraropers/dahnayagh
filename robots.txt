@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aechaeweil.freshdirect.ai/sitemap.xml
